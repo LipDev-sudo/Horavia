@@ -90,7 +90,7 @@ export default function LandingPage() {
           >
             <div className="flex items-center justify-between border-b border-border pb-4">
               <div>
-                <p className="text-xs font-semibold uppercase tracking-[0.16em] text-accent">
+                <p className="text-xs font-semibold uppercase tracking-[0.16em] text-[var(--accent-text)]">
                   Hoje
                 </p>
                 <p className="mt-1 font-bold">Estúdio Aurora</p>
